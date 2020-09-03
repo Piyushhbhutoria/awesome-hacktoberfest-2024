@@ -37,3 +37,4 @@ See all meetups and events [here](https://hacktoberfest.digitalocean.com/events)
 
 ## License
 
+![GitHub](https://img.shields.io/github/license/Piyushhbhutoria/awesome-hacktoberfest-2020)

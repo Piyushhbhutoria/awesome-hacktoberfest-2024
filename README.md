@@ -13,7 +13,7 @@
 - [Meetups and Events](#meetups-and-events)
 
 ## Repositories Supporting First-Timers
-
+-  [OpenSourceTogether/Hacktoberfest-2020 ✅](https://github.com/OpenSourceTogether/Hacktoberfest-2020)
 
 ## Repositories Coding for Beginners
 

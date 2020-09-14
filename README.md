@@ -17,7 +17,12 @@
 
 ## Repositories Coding for Beginners
 
+- [TemplateBuddy](https://github.com/Documentive/TemplateBuddy)
+
 ## Repositories for intermediate/Advanced Coders
+
+- [simC](https://github.com/cimplec/sim-c)
+- [PyGeneses](https://github.com/Project-DC/pygeneses)
 
 ## Guides and Resources
 

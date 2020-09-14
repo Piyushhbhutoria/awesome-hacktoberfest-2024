@@ -14,15 +14,21 @@
 
 ## Repositories Supporting First-Timers
 -  [OpenSourceTogether/Hacktoberfest-2020 ✅](https://github.com/OpenSourceTogether/Hacktoberfest-2020)
+- [vinitshahdeo/Hacktoberfest2020](https://github.com/vinitshahdeo/Hacktoberfest2020)
 
 ## Repositories Coding for Beginners
 
 - [TemplateBuddy](https://github.com/Documentive/TemplateBuddy)
+- [inspirational-quotes](https://github.com/vinitshahdeo/inspirational-quotes)
+- [Water Monitoring System](https://github.com/vinitshahdeo/Water-Monitoring-System)
+- [HBD](https://github.com/vinitshahdeo/HBD)
 
 ## Repositories for intermediate/Advanced Coders
 
 - [simC](https://github.com/cimplec/sim-c)
 - [PyGeneses](https://github.com/Project-DC/pygeneses)
+- [PortScanner](https://github.com/vinitshahdeo/PortScanner/)
+
 
 ## Guides and Resources
 

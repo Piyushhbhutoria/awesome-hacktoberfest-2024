@@ -28,6 +28,7 @@
 - [simC](https://github.com/cimplec/sim-c)
 - [PyGeneses](https://github.com/Project-DC/pygeneses)
 - [PortScanner](https://github.com/vinitshahdeo/PortScanner/)
+- [ThePhysicsHub](https://github.com/ThePhysHub/ThePhysicsHub/)
 
 
 ## Guides and Resources

@@ -18,6 +18,7 @@
 
 ## Repositories Coding for Beginners
 
+- [Appwrite](https://github.com/appwrite/appwrite)
 - [TemplateBuddy](https://github.com/Documentive/TemplateBuddy)
 - [inspirational-quotes](https://github.com/vinitshahdeo/inspirational-quotes)
 - [Water Monitoring System](https://github.com/vinitshahdeo/Water-Monitoring-System)
@@ -25,6 +26,7 @@
 
 ## Repositories for intermediate/Advanced Coders
 
+- [Appwrite](https://github.com/appwrite/appwrite)
 - [simC](https://github.com/cimplec/sim-c)
 - [PyGeneses](https://github.com/Project-DC/pygeneses)
 - [PortScanner](https://github.com/vinitshahdeo/PortScanner/)

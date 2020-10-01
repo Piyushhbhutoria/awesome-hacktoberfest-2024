@@ -1,6 +1,8 @@
 # Awesome Hacktoberfest 2020 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> We present a curated list of awesome Hacktoberfest 2020 repositories. If you enjoyed this resource, please leave a star :star: to support this project! :sparkles:
+> We present a curated list of awesome Hacktoberfest 2020 repositories. If you enjoyed this resource, please leave a star ⭐ to support this project! ✨
+
+> Feel Free to add your repos to the list 😄
 
 > Don't forget to [read our contributing guide](https://github.com/Piyushhbhutoria/awesome-hacktoberfest-2020/blob/master/CONTRIBUTING.md)
 
@@ -13,7 +15,8 @@
 - [Meetups and Events](#meetups-and-events)
 
 ## Repositories Supporting First-Timers
--  [OpenSourceTogether/Hacktoberfest-2020 ✅](https://github.com/OpenSourceTogether/Hacktoberfest-2020)
+
+- [OpenSourceTogether/Hacktoberfest-2020 ✅](https://github.com/OpenSourceTogether/Hacktoberfest-2020)
 - [vinitshahdeo/Hacktoberfest2020](https://github.com/vinitshahdeo/Hacktoberfest2020)
 
 ## Repositories Coding for Beginners
@@ -31,7 +34,6 @@
 - [PyGeneses](https://github.com/Project-DC/pygeneses)
 - [PortScanner](https://github.com/vinitshahdeo/PortScanner/)
 - [ThePhysicsHub](https://github.com/ThePhysHub/ThePhysicsHub/)
-
 
 ## Guides and Resources
 

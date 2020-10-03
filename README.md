@@ -26,7 +26,7 @@
 - [inspirational-quotes](https://github.com/vinitshahdeo/inspirational-quotes)
 - [Water Monitoring System](https://github.com/vinitshahdeo/Water-Monitoring-System)
 - [HBD](https://github.com/vinitshahdeo/HBD)
-
+- [HacktoberFest-Projects](https://github.com/Atharv-Attri/HacktoberFest-Projects/)
 ## Repositories for intermediate/Advanced Coders
 
 - [Appwrite](https://github.com/appwrite/appwrite)

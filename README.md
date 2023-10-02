@@ -1,10 +1,10 @@
-# Awesome Hacktoberfest 2020 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Hacktoberfest 2023 ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
-> We present a curated list of awesome Hacktoberfest 2020 repositories. If you enjoyed this resource, please leave a star ⭐ to support this project! ✨
+> We present a curated list of awesome Hacktoberfest 2023 repositories. If you enjoyed this resource, please leave a star ⭐ to support this project! ✨
 
 > Feel Free to add your repos to the list 😄
 
-> Don't forget to [read our contributing guide](https://github.com/Piyushhbhutoria/awesome-hacktoberfest-2020/blob/master/CONTRIBUTING.md)
+> Don't forget to [read our contributing guide](https://github.com/Piyushhbhutoria/awesome-hacktoberfest-2023/blob/master/CONTRIBUTING.md)
 
 ## Contents
 
@@ -16,8 +16,8 @@
 
 ## Repositories Supporting First-Timers
 
-- [OpenSourceTogether/Hacktoberfest-2020 ✅](https://github.com/OpenSourceTogether/Hacktoberfest-2020)
-- [vinitshahdeo/Hacktoberfest2020](https://github.com/vinitshahdeo/Hacktoberfest2020)
+- [AliceWonderland/hacktoberfest](https://github.com/AliceWonderland/hacktoberfest)
+- [ossamamehmood/Hacktoberfest2023](https://github.com/ossamamehmood/Hacktoberfest2023)
 
 ## Repositories Coding for Beginners
 
@@ -53,4 +53,4 @@ See all meetups and events [here](https://hacktoberfest.digitalocean.com/events)
 
 ## License
 
-![GitHub](https://img.shields.io/github/license/Piyushhbhutoria/awesome-hacktoberfest-2020)
+![GitHub](https://img.shields.io/github/license/Piyushhbhutoria/awesome-hacktoberfest-2023)

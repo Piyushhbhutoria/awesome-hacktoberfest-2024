@@ -34,6 +34,7 @@
 - [PyGeneses](https://github.com/Project-DC/pygeneses)
 - [PortScanner](https://github.com/vinitshahdeo/PortScanner/)
 - [ThePhysicsHub](https://github.com/ThePhysHub/ThePhysicsHub/)
+- [Roc Toolkit](https://github.com/roc-streaming/roc-toolkit)
 
 ## Guides and Resources
 
